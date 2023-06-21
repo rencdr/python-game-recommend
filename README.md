@@ -1,4 +1,4 @@
-Game Recommendation System
+Game Recommendation Application
 
 This project implements a game recommendation system based on user preferences. 
 
